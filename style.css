@@ -151,7 +151,7 @@ body{
     left: 716px;
 }
 #text1{
-    font-family: "Bauhaus Hv BT";
+    font-family: 'Manrope', sans-serif;
     color: #8E53F0;
     font-size: 27px;
     position: absolute;
@@ -318,7 +318,7 @@ body{
     left: 124px;
 }
 #txt2{
-    font-family: "Bauhaus Hv BT";
+    font-family: 'Manrope', sans-serif;
     color: white;
     font-size: 30px;
     position: absolute;
